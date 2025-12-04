@@ -46,3 +46,5 @@ The app includes:
 👤 About page with GitHub profile link
 🌓 Theme toggle (dark/light mode)
 That's it! Your blog app is ready to use. 🚀
+<img width="1919" height="917" alt="Screenshot 2025-12-04 193908" src="https://github.com/user-attachments/assets/137091a6-9536-4a29-bf7b-c8f00024e204" />
+<img width="1919" height="904" alt="Screenshot 2025-12-04 193843" src="https://github.com/user-attachments/assets/b1c51400-08ad-4688-b13e-313e5024d277" />
